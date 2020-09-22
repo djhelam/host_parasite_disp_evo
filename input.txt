@@ -1,0 +1,34 @@
+N0 intitial population density
+100
+lambda fecundity
+4
+alpha intraspecific competition coefficient
+0.01
+t number of time steps
+10000
+R number of replicates
+10
+dispersal probability
+0
+dispersal mortality
+0.1
+extinction probability
+0.05
+variance of mutation
+0.5
+probability of mutation
+0.001
+initial prevalence
+0.5
+transmission rate
+4
+virulence
+0.5
+relative contribution of male to virulence
+1
+a search efficiency
+0.01
+context dependency
+1
+genetic variation
+1
